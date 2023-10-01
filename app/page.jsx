@@ -101,8 +101,9 @@ export default function Home() {
               Record Screen
             </p>
             <p className=" text-center leading-8 text-[#616163]">
-              Click the "Start Recording" button in our extension. choose which
-              part of your screen to capture and who you want to send it to.
+              Click the &quot;Start Recording&quot; button in our extension.
+              choose which part of your screen to capture and who you want to
+              send it to.
             </p>
             <img className=" pt-6" src="/card-img.png" />
           </div>

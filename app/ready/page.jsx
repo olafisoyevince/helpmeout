@@ -101,63 +101,80 @@ const Ready = () => {
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
             <div className=" flex gap-5 pb-4">
               <p className=" flex-1">0.01</p>
               <p>
                 First step. Open Facebook on your desktop or mobile device and
-                locate "Marketplace" in the left-hand menu or at the top of the{" "}
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
+              </p>
+            </div>
+            <div className=" flex gap-5 pb-4">
+              <p className=" flex-1">0.01</p>
+              <p>
+                First step. Open Facebook on your desktop or mobile device and
+                locate &quot;Marketplace&quot; in the left-hand menu or at the
+                top of the
               </p>
             </div>
           </div>
