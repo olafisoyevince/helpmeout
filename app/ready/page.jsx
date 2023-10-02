@@ -194,7 +194,7 @@ const Ready = () => {
           </button>
 
           <div className="flex justify-center gap-2">
-            <p className="text-[#7E7E7E]">Don't have an account?</p>
+            <p className="text-[#7E7E7E]">Don&apos;t have an account?</p>
             <Link href="/signup" className="underline">
               Create account
             </Link>
