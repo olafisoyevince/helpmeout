@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import { ArrowRight } from "iconsax-react";
 import Footer from "./components/Footer";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -16,10 +17,13 @@ export default function Home() {
             Help your friends and loved ones by creating and sending videos on
             how to get things done on a website.
           </p>
-          <button className=" bg-[#120B48] py-5 px-6 flex text-white rounded-lg gap-2 mt-10">
-            <p>Install HelpMeOut</p>
-            <ArrowRight size="24" color="#fff" />
-          </button>
+
+          <Link href="https://drive.google.com/drive/folders/1g3DFKJTX8Ol6VLEU66R3xEpUXyVfBF4e?usp=drive_link">
+            <button className=" bg-[#120B48] py-5 px-6 flex text-white rounded-lg gap-2 mt-10">
+              <p>Install HelpMeOut</p>
+              <ArrowRight size="24" color="#fff" />
+            </button>
+          </Link>
         </div>
 
         <div className=" w-full lg:w-1/2 mt-12 lg:mt-0">
