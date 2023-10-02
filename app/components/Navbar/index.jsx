@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { Button } from "@chakra-ui/react";
 
 const Navbar = () => {
@@ -20,7 +21,9 @@ const Navbar = () => {
 
       <div className=" hidden md:block">
         <Button>
-          <p className=" py-4 px-10"> Get Started</p>
+          <Link href="/signup">
+            <p className=" py-4 px-10"> Get Started</p>
+          </Link>
         </Button>
       </div>
     </div>
