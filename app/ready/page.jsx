@@ -2,6 +2,7 @@
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import { Copy, ArrowDown2 } from "iconsax-react";
+import Link from "next/link";
 
 const Ready = () => {
   return (
@@ -180,6 +181,26 @@ const Ready = () => {
           </div>
         </div>
       </div>
+
+      <section className="p-[1rem] lg:p-[6rem] bg-[#f4f6f8] md:mt-8">
+        <div className="grid gap-4 font-sora font-bold text-base text-center md:mx-auto md:py-8 xl:text-[2.4rem]">
+          <p className=" leading-10">
+            To ensure the availability and privacy of your video, we recommend
+            saving it to your account.
+          </p>
+
+          <button className="w-max px-6 py-3 mx-auto bg-[#120B48] rounded-[1.2rem] font-work-sans font-normal text-white xl:text-sm">
+            Save video
+          </button>
+
+          <div className="flex justify-center gap-2">
+            <p className="text-[#7E7E7E]">Don't have an account?</p>
+            <Link href="/signup" className="underline">
+              Create account
+            </Link>
+          </div>
+        </div>
+      </section>
       <Footer />
     </>
   );
