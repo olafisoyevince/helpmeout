@@ -8,7 +8,7 @@ const Video = () => {
   return (
     <div>
       <DashboardNavbar />
-      <main className="p-4 px-[20px] md:px[50px] lg:px-[70px] xl:px-[100px] grid gap-4 text-[1.4rem] text-[rgba(20,20,20,0.7)] xl:mx-auto xl:text-sm  ">
+      <main className="p-4 px-[20px] md:px[50px] lg:px-[70px] xl:px-[100px] grid gap-4 text-[rgba(20,20,20,0.7)] xl:mx-auto text-sm  ">
         <section className="flex flex-wrap gap-[0.5rem] md:col-span-full">
           <Link href="/" className="hover:underline">
             Home
