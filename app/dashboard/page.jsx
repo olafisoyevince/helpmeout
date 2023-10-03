@@ -39,7 +39,7 @@ const Dashboard = () => {
             </h2>
 
             <div className="p-2 border-[0.1rem] border-[#e7e7ed] rounded-[1.2rem] flex flex-col gap-2">
-              <Link href="/recent-videos/video">
+              <Link href="/dashboard/video">
                 <img
                   src="/thumbnail1.png"
                   alt="video thumbnail"
@@ -47,7 +47,7 @@ const Dashboard = () => {
                 />
               </Link>
               <div className="grid grid-cols-[1fr_20%] gap-x-2 gap-y-[0.5rem]">
-                <Link href="/recent-videos/video">
+                <Link href="/dashboard/video">
                   <h4 className="font-medium text-sm leading-8 xl:text-lg">
                     How To Create Facebook Ad Listing
                   </h4>
@@ -65,7 +65,7 @@ const Dashboard = () => {
             </div>
 
             <div className="p-2 border-[0.1rem] border-[#e7e7ed] rounded-[1.2rem] flex flex-col gap-2">
-              <Link href="/recent-videos/video">
+              <Link href="/dashboard/video">
                 <img
                   src="/thumbnail1.png"
                   alt="video thumbnail"
@@ -73,7 +73,7 @@ const Dashboard = () => {
                 />
               </Link>
               <div className="grid grid-cols-[1fr_20%] gap-x-2 gap-y-[0.5rem]">
-                <Link href="/recent-videos/video">
+                <Link href="/dashboard/video">
                   <h4 className="font-medium text-sm leading-8 xl:text-lg">
                     How To Create Facebook Ad Listing
                   </h4>
@@ -91,13 +91,13 @@ const Dashboard = () => {
             </div>
           </div>
 
-          <div className="grid gap-2  md:grid-cols-2 md:gap-x-10">
+          <div className="grid gap-2 pt-10 md:grid-cols-2 md:gap-x-10">
             <h2 className="font-medium text-sm text-[rgba(20,20,20,0.7)] md:col-span-full xl:text-base">
               Files from last week
             </h2>
 
             <div className="p-2 border-[0.1rem] border-[#e7e7ed] rounded-[1.2rem] flex flex-col gap-2">
-              <Link href="/recent-videos/video">
+              <Link href="/dashboard/video">
                 <img
                   src="/thumbnail1.png"
                   alt="video thumbnail"
@@ -105,7 +105,7 @@ const Dashboard = () => {
                 />
               </Link>
               <div className="grid grid-cols-[1fr_20%] gap-x-2 gap-y-[0.5rem]">
-                <Link href="/recent-videos/video">
+                <Link href="/dashboard/video">
                   <h4 className="font-medium text-sm leading-8 xl:text-lg">
                     How To Create Facebook Ad Listing
                   </h4>
@@ -123,7 +123,7 @@ const Dashboard = () => {
             </div>
 
             <div className="p-2 border-[0.1rem] border-[#e7e7ed] rounded-[1.2rem] flex flex-col gap-2">
-              <Link href="/recent-videos/video">
+              <Link href="/dashboard/video">
                 <img
                   src="/thumbnail1.png"
                   alt="video thumbnail"
@@ -131,7 +131,7 @@ const Dashboard = () => {
                 />
               </Link>
               <div className="grid grid-cols-[1fr_20%] gap-x-2 gap-y-[0.5rem]">
-                <Link href="/recent-videos/video">
+                <Link href="/dashboard/video">
                   <h4 className="font-medium text-sm leading-8 xl:text-lg">
                     How To Create Facebook Ad Listing
                   </h4>
