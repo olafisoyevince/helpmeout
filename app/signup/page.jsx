@@ -1,5 +1,6 @@
 import { Button, Text } from "@chakra-ui/react";
 import Image from "next/image";
+import Link from "next/link";
 
 const Signup = () => {
   return (
@@ -73,16 +74,18 @@ const Signup = () => {
           />
         </div>
 
-        <Button
-          // isLoading={isLoading}
-          // loadingText="Logging in..."
-          type="submit"
-          className=" bg-[#120B48] text-white rounded-lg w-full py-3 h-[53px] mt-8"
-          variant="solid"
-          colorScheme="black"
-        >
-          Sign Up
-        </Button>
+        <Link href="/dashboard">
+          <Button
+            // isLoading={isLoading}
+            // loadingText="Logging in..."
+            type="submit"
+            className=" bg-[#120B48] text-white rounded-lg w-full py-3 h-[53px] mt-8"
+            variant="solid"
+            colorScheme="black"
+          >
+            Sign Up
+          </Button>
+        </Link>
       </div>
     </div>
   );
